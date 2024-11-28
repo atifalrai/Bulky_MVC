@@ -20,3 +20,4 @@ Webform in 2002
 ->	When ever u want to rigster new u have to do this in program.cs just like we have creaea dbcontextcs and established db connection we have to register that in program.cs and we will add all the serveces to the cotainer
 -> For a datatable 1st create a model and we will create property there in the model and then in the applicationdbcontext we will set a dbset for that and then in pkg 
 manager we have to add-migration and once migration will be added then we will run update-database
+-> For every model there will be a controller and there will be a view 
